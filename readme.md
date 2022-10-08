@@ -42,7 +42,7 @@ Boolean logic is a branch of mathematics that deals with the values of truth and
 |    &&    | AND  | Returns true if both operands are true. |
 |   \|\|   |  OR  | Returns true if either operand is true. |
 
-### Nice to know Boolean Operators
+### Nice to know Unary Operators
 | Operator | Name |               Description               |
 | :------: | :--: | :-------------------------------------: |
 |    ()     | Parentheses   |   Allows you to group together keywords and control the order in which the terms will be searched.    |
